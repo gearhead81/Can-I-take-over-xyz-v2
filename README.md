@@ -94,7 +94,7 @@ Help Scout       | Vulnerable     |               `No settings were found for th
  Readme.io       | Vulnerable     |               `Project doesnt exist... yet!` |          `Project doesnt exist... yet!` 
  Readthedocs       | vulnerable     |        |     `unknown to Read the Docs`     
    Sendgrid       |Not vulnerable     |                |    
-   Shopify       | Vulnerable     |               `Sorry, this shop is currently unavailable.` |          `Only one step left!`     
+   Shopify       | Vulnerable     |               `Sorry, this store is currently unavailable.` |          `Only one step left!`     
    SmartJobBoard       | vulnerable     |               `This job board website is either expired or its domain name is invalid.` |     `Job Board Is Unavailable` 
    Squarespace       | Not Vulnerable     |                |              
    Statuspage       | Not vulnerable     |                |     
